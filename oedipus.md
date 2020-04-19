@@ -2,13 +2,15 @@
 
 ## SENTENCE
 - **Name:** Oedipus Jones
+- is a
 - **Descriptor:** RoboDogMan (R) (D) (M)
 - **Type:** Speaker (S)
+- who
 - **Focus:** Tops Gears (TG)
 
-## TIER (2)
+## XP (0)
 
-### XP (0)
+## TIER (2)
 ### Effort (2)
 
 ## POOLS
@@ -67,14 +69,13 @@
 - **Stare Them Down**
   > The mental strength you’ve built up racing over the years is significant. You’re trained in Intellect defense tasks. *Enabler.*
 
-## EQUIPMENT
+## INVENTORY
 - Large VROOOOOM "diamond"-esque/"gold"-ish necklace
 - Boomer Red trackie with giant embroidered scorpion on the back
 - Matching red racing gloves
 - Cricket bat
 - Red Yankee Muscle car with a giant skull on the hood
-
-## MONEY (1250)
+- £1250
 
 ## LASTING DAMAGE
 - None
@@ -126,10 +127,8 @@
 - You are trained in all tasks involving interacting with real world animals (including pure dogs) (RDM)
 - You’re often focused more on yourself than what’s going on around you. The difficulty of tasks involving perception are increased by one step. (RDM)
 
-### Money
-- 300 quid
-
-### Equipment
+### Inventory
+- Money: 300 quid (S)
 - Additional Equipment (S)
   > You have a piece of jewelry that is an expensive item. People often give you gifts or try to impress you.
 - Additional Equipment (TG)
@@ -161,5 +160,5 @@
 ### Money
 - +950 (adventures)
 
-### Equipment
+### Inventory
 - Replaced Ford Comet with Muscle Car
