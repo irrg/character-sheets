@@ -51,42 +51,56 @@
   - Pick 2 from TG (CC)
     - Driver
     - Driving on the Edge
-
+  - Pick 1 from R, D, M (T1 -> T2)
+    - Built-in Weapon
+  - 2 new skills from TG (T1 -> T2)
+    - Access Onboard
+    - Stare Them Down
+  - Pick 1 from S (T1 -> T2)
+    - Unexpected Betrayal
 
 ### Enablers
-- Practiced With Light Weapons (S)
+- Practiced With Light Weapons
   > You can use light weapons without penalty. If you wield a medium weapon, increase the difficulty of the attack by one step. If you wield a heavy weapon, increase it by two steps. You also start with one light weapon of your choice. *Enabler.*
-- Dog Sense (D)
+- Dog Sense
   > You have an uncanny ability to sense when things aren’t right and can snap to an alert state quickly. You are trained in Initiative. If you are already trained, you become specialized. *Enabler.*
-- Ballistic Skin (R)
+- Ballistic Skin
   > You have replaced your standard skin plastics with a layer of ballistic weave providing +1 Armor rating. *Enabler.*
-- Driver (TG)
+- Driver
   > You are trained in all tasks related to driving a car, truck, or motorcycle, including mechanical repair tasks. *Enabler.*
-- Driving on the Edge (TG)
+- Driving on the Edge
   >  You can take a shot with light or medium ranged weapon and attempt driving tasks as a single action. *Enabler.*
+- Unexpected Betrayal
+  > Within a round or two of successfully using Enthrall, Fast Talk, or a similar ability on a target within short range, the difficulty of the first attack you make on that target is decreased by two steps. Once you use Unexpected Betrayal on a target, the difficulty of using your abilities or attempt- ing simple persuasion on that target is permanently increased by two steps. *Enabler.*
+- Stare Them Down
+  > The mental strength you’ve built up racing over the years is significant. You’re trained in Intellect defense tasks. *Enabler.*
 
 ### Actions
-- Fast Talk **(1 Intellect point)** (S)
+- Fast Talk **(1 Intellect point)**
   > When speaking with an intelligent creature who can understand you and isn’t hostile, you convince them to give you some specific in- formation in the next round; perhaps a name, address, or other details. The information you get out of them must be agreed upon by the GM; it should not put the creature or its allies in obvious danger or be wildly out of character. *Action.*
-- Spin Identity **(2+ Intellect points)** (S)
-  > You convince all intelligent creatures who can see, hear, and under- stand you that you are someone or something other than who you actually are. You don’t impersonate a specific individual known to the victim. Instead, you con- vince the victim that you are someone they do not know belonging to a certain category of people. A disguise isn’t necessary, but a good disguise will almost certainly be an asset to the roll involved. If you attempt to convince more than one creature, the Intellect cost increases by 1 point per additional victim. Fooled creatures remain so for up to an hour, unless your actions or other circum- stances reveal your true identity earlier. *Action.*
+- Access Onboard **(3 Intellect points)**
+  > You attempt to take control of the onboard computer and can access all prior data (where the vehicle has been) as well as optimizing the navigation system, adding +1 to all navigation rolls. Action.
+- Spin Identity **(2+ Intellect points)**
+  > You convince all intelligent creatures who can see, hear, and understand you that you are someone or something other than who you actually are. You don’t impersonate a specific individual known to the victim. Instead, you con- vince the victim that you are someone they do not know belonging to a certain category of people. A disguise isn’t necessary, but a good disguise will almost certainly be an asset to the roll involved. If you attempt to convince more than one creature, the Intellect cost increases by 1 point per additional victim. Fooled creatures remain so for up to an hour, unless your actions or other circum- stances reveal your true identity earlier. *Action.*
 
 ## SKILLS
 - Progression:
-  - You are trained in a physical, noncombat skill of your choice (S, CC) - Picked: Carjacking
+  - You are trained in a physical, noncombat skill of your choice - Picked: Carjacking (S, CC)
   - You are trained in all tasks involving interacting with real world animals (including pure dogs) (RDM, CC)
+  - You’re often focused more on yourself than what’s going on around you. The difficulty of tasks involving perception are increased by one step. (RDM, CC)
 
 ### Might
 
 ### Speed
-- Driving a vehicle: T (Driver)
-- Repairing a vehicle: T (Driver)
-- Initiative: T (Dog Sense)
+- Driving a vehicle: T
+- Repairing a vehicle: T
+- Initiative: T
 
 ### Intellect
-- Perception: I (RDM)
-- Carjacking: T (RDM)
-- Real World Animals (RDM)
+- Perception: I
+- Carjacking: T
+- Real World Animals: T
+- Intellect defense tasks: T
 
 ## LASTING DAMAGE
 - None
@@ -98,19 +112,19 @@
   - Cypher 2
 
 ## ATTACKS
-- Cricket Bat (S)
-  - Mod: +1
+- Cricket Bat
   - Damage: 4
+- F1NG3RGUNZ
+  - Damage: 4
+  > Built-in Weapon: You have installed a retractable light weapon (4 damage). This can be a melee or ranged weapon. It is fully concealed and can only be discovered by body scan. Upgrade may be selected twice.
 
 ## ARMOR (+1)
 - Ballistic Skin +1
 
 ## MONEY (1250)
 - Progression:
-  - CC:
-    - 300
-  - T1 -> T2
-    - +950
+  - 300 (CC)
+  - +950 (T1 -> T2)
 
 ## BACKGROUND
 - You grew up in extreme poverty, among criminals. You still have some connections with the old neighborhood.
