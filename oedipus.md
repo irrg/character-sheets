@@ -20,11 +20,20 @@
 
 ### Effort (2)
 
-## CYPHERS
-- Grasp: 2
-- Inventory:
-  - Cypher 1
-  - Cypher 2
+## SKILLS
+
+### Might
+
+### Speed
+- Driving a vehicle: T
+- Repairing a vehicle: T
+- Initiative: T
+
+### Intellect
+- Perception: I
+- Carjacking: T
+- Real World Animals: T
+- Intellect defense tasks: T
 
 ## ATTACKS
 - Cricket Bat
@@ -32,6 +41,12 @@
 - F1NG3RGUNZ
   - Damage: 4
   > Built-in Weapon: You have installed a retractable light weapon (4 damage). This can be a melee or ranged weapon. It is fully concealed and can only be discovered by body scan. Upgrade may be selected twice.
+
+## CYPHERS
+- Grasp: 2
+- Inventory:
+  - Cypher 1
+  - Cypher 2
 
 ## DEFENSES
 - Ballistic Skin +1 armor
@@ -61,21 +76,6 @@
   > Within a round or two of successfully using Enthrall, Fast Talk, or a similar ability on a target within short range, the difficulty of the first attack you make on that target is decreased by two steps. Once you use Unexpected Betrayal on a target, the difficulty of using your abilities or attempt- ing simple persuasion on that target is permanently increased by two steps. *Enabler.*
 - **Stare Them Down**
   > The mental strength you’ve built up racing over the years is significant. You’re trained in Intellect defense tasks. *Enabler.*
-
-## SKILLS
-
-### Might
-
-### Speed
-- Driving a vehicle: T
-- Repairing a vehicle: T
-- Initiative: T
-
-### Intellect
-- Perception: I
-- Carjacking: T
-- Real World Animals: T
-- Intellect defense tasks: T
 
 ## LASTING DAMAGE
 - None
