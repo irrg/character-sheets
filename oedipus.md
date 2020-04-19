@@ -12,37 +12,34 @@
 ### Effort (2)
 
 ## POOLS
-
-### Might (13 / 13)
-### Speed (14 / 14)
-### Intellect (16 / 16, Edge 2)
+- **Might** (13 / 13)
+- **Speed** (14 / 14)
+- **Intellect** (16 / 16, Edge 2)
 
 ## SKILLS
 
-### Speed
-- Driving a vehicle: T
-- Repairing a vehicle: T
-- Initiative: T
+### Trained
+- **Driving a vehicle** (Speed)
+- **Repairing a vehicle** (Speed)
+- **Initiative** (Speed)
+- **Carjacking** (Intellect)
+- **Real World Animals** (Intellect
+- **Intellect defense tasks** (Intellect)
 
-### Intellect
-- Perception: I
-- Carjacking: T
-- Real World Animals: T
-- Intellect defense tasks: T
+### Inability
+- Perception
 
 ## ATTACKS
-- Cricket Bat (4 dmg)
-- F1NG3RGUNZ (4 dmg)
+- **Cricket Bat** (4 dmg)
+- **F1NG3RGUNZ** (4 dmg)
   > Built-in Weapon: You have installed a retractable light weapon (4 damage). This can be a melee or ranged weapon. It is fully concealed and can only be discovered by body scan. Upgrade may be selected twice.
 
-## CYPHERS
-- Grasp: 2
-- Inventory:
-  - Cypher 1
-  - Cypher 2
+## CYPHERS (0/2)
+- Cypher 1
+- Cypher 2
 
-## DEFENSES
-- Ballistic Skin +1 armor
+## ARMOR
+- +1 (Ballistic Skin)
 
 ## SPECIAL ABILITIES
 
