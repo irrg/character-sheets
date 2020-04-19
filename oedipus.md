@@ -6,61 +6,49 @@
 - Type: Speaker (S)
 - Focus: Tops Gears (TG)
 
-## XP
-- Current: 0
+## XP (0)
 
 ## POOLS
 
-### Might
+### Might (13 / 13)
 - Progression:
-  - CC:
-    - 9 (S)
-    - +1 (S)
-    - +2 (RDM: Actions, Not Words)
-  - T1 -> T2:
-    - +1
-- Pool: 13
-- Current: 13
+  - 9 (S, CC)
+  - +1 (S, CC)
+  - +2 (RDM: Actions, Not Words, CC)
+  - +1 (T1 -> T2)
 
-### Speed (14)
+### Speed (14 / 14)
 - Progression:
-  - CC:
-    - 9 (S)
-    - +2 (S)
-    - +2 (RDM: Actions, Not Words)
-  - T1 -> T2:
-    - +1
-- Pool: 14
+  - 9 (S, CC)
+  - +2 (S, CC)
+  - +2 (RDM: Actions, Not Words, CC)
+  - +1 (T1 -> T2)
 
-### Intellect (16)
+### Intellect (16 / 16, Edge 2)
 - Progression:
-  - CC:
-    - 11 (S)
-    - +3 (S)
-  - T1 -> T2:
-    - +2
-- Pool: 16
-- Current: 16
-
-- Edge:
+  - 11 (S, CC)
+  - +3 (S, CC)
+  - +2 (T1 -> T2)
+- Edge
   - Progression:
-    - CC:
-      - 1 (S)
-    - T1 -> T2
-      - +1
-  - Current: 2
+    - 1 (S, CC)
+    - +1 (T1 -> T2)
 
-### Effort
-- Current: 2
+### Effort (2)
 
 ## SPECIAL ABILITIES
 - Progression:
-  - Practiced with Light Weapons (S) [CC]
-  - S: Pick 3 from S, R, D, M [CC]
+  - Practiced with Light Weapons (S, CC)
+  - Pick 3 from S, R, D, M (S, CC)
     - Fast Talk (S)
     - Spin Identity (S)
-  - RDM: Pick 1 from R, D, M [CC]
+    - Dog Sense (D)
+  - Pick 1 from R, D, M (RDM, CC)
     - Ballistic Skin (R)
+  - Pick 2 from TG (CC)
+    - Driver
+    - Driving on the Edge
+
 
 ### Enablers
 - Practiced With Light Weapons (S)
@@ -81,6 +69,9 @@
   > You convince all intelligent creatures who can see, hear, and under- stand you that you are someone or something other than who you actually are. You don’t impersonate a specific individual known to the victim. Instead, you con- vince the victim that you are someone they do not know belonging to a certain category of people. A disguise isn’t necessary, but a good disguise will almost certainly be an asset to the roll involved. If you attempt to convince more than one creature, the Intellect cost increases by 1 point per additional victim. Fooled creatures remain so for up to an hour, unless your actions or other circum- stances reveal your true identity earlier. *Action.*
 
 ## SKILLS
+- Progression:
+  - You are trained in a physical, noncombat skill of your choice (S, CC) - Picked: Carjacking
+  - You are trained in all tasks involving interacting with real world animals (including pure dogs) (RDM, CC)
 
 ### Might
 
@@ -90,11 +81,9 @@
 - Initiative: T (Dog Sense)
 
 ### Intellect
-- Perception: I (RDM, CC)
-- Carjacking: T (RDM, CC)
-  > Skill: You are trained in a physical, noncombat skill of your choice.
-- Real World Animals (RDM). CC
-  > Skill: You’re trained in all tasks involving interacting with real world animals (including pure dogs).
+- Perception: I (RDM)
+- Carjacking: T (RDM)
+- Real World Animals (RDM)
 
 ## LASTING DAMAGE
 - None
@@ -110,16 +99,15 @@
   - Mod: +1
   - Damage: 4
 
-## ARMOR
+## ARMOR (+1)
 - Ballistic Skin +1
 
-## MONEY
+## MONEY (1250)
 - Progression:
   - CC:
     - 300
   - T1 -> T2
     - +950
-- Current: 1250
 
 ## BACKGROUND
 - You grew up in extreme poverty, among criminals. You still have some connections with the old neighborhood.
