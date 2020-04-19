@@ -33,8 +33,8 @@
   - Damage: 4
   > Built-in Weapon: You have installed a retractable light weapon (4 damage). This can be a melee or ranged weapon. It is fully concealed and can only be discovered by body scan. Upgrade may be selected twice.
 
-## ARMOR (+1)
-- Ballistic Skin +1
+## DEFENSES
+- Ballistic Skin +1 armor
 
 ## SPECIAL ABILITIES
 
