@@ -35,6 +35,9 @@
     - +1 (T1 -> T2)
 
 ### Effort (2)
+  - Progression:
+    - 1 (CC)
+    - +1 (T1 -> T2)
 
 ## SPECIAL ABILITIES
 - Progression:
