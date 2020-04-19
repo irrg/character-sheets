@@ -20,7 +20,31 @@
 
 ### Effort (2)
 
+## CYPHERS
+- Grasp: 2
+- Inventory:
+  - Cypher 1
+  - Cypher 2
+
+## ATTACKS
+- Cricket Bat
+  - Damage: 4
+- F1NG3RGUNZ
+  - Damage: 4
+  > Built-in Weapon: You have installed a retractable light weapon (4 damage). This can be a melee or ranged weapon. It is fully concealed and can only be discovered by body scan. Upgrade may be selected twice.
+
+## ARMOR (+1)
+- Ballistic Skin +1
+
 ## SPECIAL ABILITIES
+
+### Actions
+- **Fast Talk** *(1 Intellect point)*
+  > When speaking with an intelligent creature who can understand you and isn’t hostile, you convince them to give you some specific in- formation in the next round; perhaps a name, address, or other details. The information you get out of them must be agreed upon by the GM; it should not put the creature or its allies in obvious danger or be wildly out of character. *Action.*
+- **Access Onboard** *(3 Intellect points)*
+  > You attempt to take control of the onboard computer and can access all prior data (where the vehicle has been) as well as optimizing the navigation system, adding +1 to all navigation rolls. Action.
+- **Spin Identity** *(2+ Intellect points)*
+  > You convince all intelligent creatures who can see, hear, and understand you that you are someone or something other than who you actually are. You don’t impersonate a specific individual known to the victim. Instead, you con- vince the victim that you are someone they do not know belonging to a certain category of people. A disguise isn’t necessary, but a good disguise will almost certainly be an asset to the roll involved. If you attempt to convince more than one creature, the Intellect cost increases by 1 point per additional victim. Fooled creatures remain so for up to an hour, unless your actions or other circum- stances reveal your true identity earlier. *Action.*
 
 ### Enablers
 - **Practiced With Light Weapons**
@@ -37,14 +61,6 @@
   > Within a round or two of successfully using Enthrall, Fast Talk, or a similar ability on a target within short range, the difficulty of the first attack you make on that target is decreased by two steps. Once you use Unexpected Betrayal on a target, the difficulty of using your abilities or attempt- ing simple persuasion on that target is permanently increased by two steps. *Enabler.*
 - **Stare Them Down**
   > The mental strength you’ve built up racing over the years is significant. You’re trained in Intellect defense tasks. *Enabler.*
-
-### Actions
-- **Fast Talk** *(1 Intellect point)*
-  > When speaking with an intelligent creature who can understand you and isn’t hostile, you convince them to give you some specific in- formation in the next round; perhaps a name, address, or other details. The information you get out of them must be agreed upon by the GM; it should not put the creature or its allies in obvious danger or be wildly out of character. *Action.*
-- **Access Onboard** *(3 Intellect points)*
-  > You attempt to take control of the onboard computer and can access all prior data (where the vehicle has been) as well as optimizing the navigation system, adding +1 to all navigation rolls. Action.
-- **Spin Identity** *(2+ Intellect points)*
-  > You convince all intelligent creatures who can see, hear, and understand you that you are someone or something other than who you actually are. You don’t impersonate a specific individual known to the victim. Instead, you con- vince the victim that you are someone they do not know belonging to a certain category of people. A disguise isn’t necessary, but a good disguise will almost certainly be an asset to the roll involved. If you attempt to convince more than one creature, the Intellect cost increases by 1 point per additional victim. Fooled creatures remain so for up to an hour, unless your actions or other circum- stances reveal your true identity earlier. *Action.*
 
 ## SKILLS
 
@@ -63,22 +79,6 @@
 
 ## LASTING DAMAGE
 - None
-
-## CYPHERS
-- Grasp: 2
-- Inventory:
-  - Cypher 1
-  - Cypher 2
-
-## ATTACKS
-- Cricket Bat
-  - Damage: 4
-- F1NG3RGUNZ
-  - Damage: 4
-  > Built-in Weapon: You have installed a retractable light weapon (4 damage). This can be a melee or ranged weapon. It is fully concealed and can only be discovered by body scan. Upgrade may be selected twice.
-
-## ARMOR (+1)
-- Ballistic Skin +1
 
 ## MONEY (1250)
 
@@ -146,7 +146,7 @@
 - Additional Equipment (TG)
   > You have access to a stolen vehicle (Ford Comet). Remember that with so many eyes in the sky, a stolen vehicle is a dangerous ride. Avoid the cops!
 
-## T1 --> T2
+## T1 → T2
 
 ### Might
 - +1
