@@ -13,82 +13,40 @@
 ## POOLS
 
 ### Might (13 / 13)
-- Progression:
-  - 9 (S, CC)
-  - +1 (S, CC)
-  - +2 (RDM: Actions, Not Words, CC)
-  - +1 (T1 -> T2)
 
 ### Speed (14 / 14)
-- Progression:
-  - 9 (S, CC)
-  - +2 (S, CC)
-  - +2 (RDM: Actions, Not Words, CC)
-  - +1 (T1 -> T2)
 
 ### Intellect (16 / 16, Edge 2)
-- Progression:
-  - 11 (S, CC)
-  - +3 (S, CC)
-  - +2 (T1 -> T2)
-- Edge
-  - Progression:
-    - 1 (S, CC)
-    - +1 (T1 -> T2)
 
 ### Effort (2)
-  - Progression:
-    - 1 (CC)
-    - +1 (T1 -> T2)
 
 ## SPECIAL ABILITIES
-- Progression:
-  - Practiced with Light Weapons (S, CC)
-  - Pick 3 from S, R, D, M (S, CC)
-    - Fast Talk (S)
-    - Spin Identity (S)
-    - Dog Sense (D)
-  - Pick 1 from R, D, M (RDM, CC)
-    - Ballistic Skin (R)
-  - Pick 2 from TG (CC)
-    - Driver
-    - Driving on the Edge
-  - 2 new skills from TG (T1 -> T2)
-    - Access Onboard
-    - Stare Them Down
-  - Pick 2 from S (or R, D, M) (T1 -> T2)
-    - Unexpected Betrayal
-    - Built-in Weapon
 
 ### Enablers
-- Practiced With Light Weapons
+- **Practiced With Light Weapons**
   > You can use light weapons without penalty. If you wield a medium weapon, increase the difficulty of the attack by one step. If you wield a heavy weapon, increase it by two steps. You also start with one light weapon of your choice. *Enabler.*
-- Dog Sense
+- **Dog Sense**
   > You have an uncanny ability to sense when things aren’t right and can snap to an alert state quickly. You are trained in Initiative. If you are already trained, you become specialized. *Enabler.*
-- Ballistic Skin
+- **Ballistic Skin**
   > You have replaced your standard skin plastics with a layer of ballistic weave providing +1 Armor rating. *Enabler.*
-- Driver
+- **Driver**
   > You are trained in all tasks related to driving a car, truck, or motorcycle, including mechanical repair tasks. *Enabler.*
-- Driving on the Edge
+- **Driving on the Edge**
   >  You can take a shot with light or medium ranged weapon and attempt driving tasks as a single action. *Enabler.*
-- Unexpected Betrayal
+- **Unexpected Betrayal**
   > Within a round or two of successfully using Enthrall, Fast Talk, or a similar ability on a target within short range, the difficulty of the first attack you make on that target is decreased by two steps. Once you use Unexpected Betrayal on a target, the difficulty of using your abilities or attempt- ing simple persuasion on that target is permanently increased by two steps. *Enabler.*
-- Stare Them Down
+- **Stare Them Down**
   > The mental strength you’ve built up racing over the years is significant. You’re trained in Intellect defense tasks. *Enabler.*
 
 ### Actions
-- Fast Talk **(1 Intellect point)**
+- **Fast Talk** *(1 Intellect point)*
   > When speaking with an intelligent creature who can understand you and isn’t hostile, you convince them to give you some specific in- formation in the next round; perhaps a name, address, or other details. The information you get out of them must be agreed upon by the GM; it should not put the creature or its allies in obvious danger or be wildly out of character. *Action.*
-- Access Onboard **(3 Intellect points)**
+- **Access Onboard** *(3 Intellect points)*
   > You attempt to take control of the onboard computer and can access all prior data (where the vehicle has been) as well as optimizing the navigation system, adding +1 to all navigation rolls. Action.
-- Spin Identity **(2+ Intellect points)**
+- **Spin Identity** *(2+ Intellect points)*
   > You convince all intelligent creatures who can see, hear, and understand you that you are someone or something other than who you actually are. You don’t impersonate a specific individual known to the victim. Instead, you con- vince the victim that you are someone they do not know belonging to a certain category of people. A disguise isn’t necessary, but a good disguise will almost certainly be an asset to the roll involved. If you attempt to convince more than one creature, the Intellect cost increases by 1 point per additional victim. Fooled creatures remain so for up to an hour, unless your actions or other circum- stances reveal your true identity earlier. *Action.*
 
 ## SKILLS
-- Progression:
-  - You are trained in a physical, noncombat skill of your choice - Picked: Carjacking (S, CC)
-  - You are trained in all tasks involving interacting with real world animals (including pure dogs) (RDM, CC)
-  - You’re often focused more on yourself than what’s going on around you. The difficulty of tasks involving perception are increased by one step. (RDM, CC)
 
 ### Might
 
@@ -123,9 +81,6 @@
 - Ballistic Skin +1
 
 ## MONEY (1250)
-- Progression:
-  - 300 (CC)
-  - +950 (T1 -> T2)
 
 ## BACKGROUND
 - You grew up in extreme poverty, among criminals. You still have some connections with the old neighborhood.
@@ -133,13 +88,89 @@
 - Me and Blix bet on Vurtball matches, and they owe you quite a bit of money at this point.
 
 ## EQUIPMENT
-- Red Yankee Muscle car with a giant skull on the hood
+- Large VROOOOOM "diamond"-esque/"gold"-ish necklace
 - Boomer Red trackie with giant embroidered scorpion on the back
 - Matching red racing gloves
 - Cricket bat
-- Large VROOOOOM "diamond"-esque/"gold"-ish necklace
-  > Additional Equipment (S): You have a piece of jewelry that is an expensive item. People often give you gifts or try to impress you.
-- ~~Ford Comet~~
-  > ~~Additional Equipment (TG): You have access to a stolen vehicle (Ford Comet). Remember that with so many eyes in the sky, a stolen vehicle is a dangerous ride. Avoid the cops!~~
+- Red Yankee Muscle car with a giant skull on the hood
 
 ## NOTES
+
+---
+
+# CHANGELOG
+
+## Character Creation
+
+### Might
+  - 9 (S)
+  - +1 (S)
+  - +2 (RDM: Actions, Not Words)
+
+### Speed
+- 9 (S)
+- +2 (S)
+- +2 (RDM: Actions, Not Words)
+
+### Intellect
+- 11 (S)
+- +3 (S)
+- Edge: 1 (S)
+
+### Effort
+- 1
+
+### Special Abilities
+- Practiced with Light Weapons (S, CC)
+- Pick 3 from S, R, D, M (S, CC)
+  - Fast Talk (S)
+  - Spin Identity (S)
+  - Dog Sense (D)
+- Pick 1 from R, D, M (RDM, CC)
+  - Ballistic Skin (R)
+- Pick 2 from TG (CC)
+  - Driver
+  - Driving on the Edge
+
+### Skills
+- You are trained in a physical, noncombat skill of your choice - Picked: Carjacking (S)
+- You are trained in all tasks involving interacting with real world animals (including pure dogs) (RDM)
+- You’re often focused more on yourself than what’s going on around you. The difficulty of tasks involving perception are increased by one step. (RDM)
+
+### Money
+- 300 quid
+
+### Equipment
+- Additional Equipment (S)
+  > You have a piece of jewelry that is an expensive item. People often give you gifts or try to impress you.
+- Additional Equipment (TG)
+  > You have access to a stolen vehicle (Ford Comet). Remember that with so many eyes in the sky, a stolen vehicle is a dangerous ride. Avoid the cops!
+
+## T1 --> T2
+
+### Might
+- +1
+
+### Speed
+- +1
+
+### Intellect
+- +2
+- Edge: +1 (S)
+
+### Effort
+- +1
+
+### Special Abilities
+- 2 new skills from TG
+  - Access Onboard
+  - Stare Them Down
+- Pick 2 from S (or R, D, M)
+  - Unexpected Betrayal
+  - Built-in Weapon
+
+### Money
+- +950 (adventures)
+
+### Equipment
+- Replaced Ford Comet with Muscle Car
