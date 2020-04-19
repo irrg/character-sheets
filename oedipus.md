@@ -51,13 +51,12 @@
   - Pick 2 from TG (CC)
     - Driver
     - Driving on the Edge
-  - Pick 1 from R, D, M (T1 -> T2)
-    - Built-in Weapon
   - 2 new skills from TG (T1 -> T2)
     - Access Onboard
     - Stare Them Down
-  - Pick 1 from S (T1 -> T2)
+  - Pick 2 from S (or R, D, M) (T1 -> T2)
     - Unexpected Betrayal
+    - Built-in Weapon
 
 ### Enablers
 - Practiced With Light Weapons
