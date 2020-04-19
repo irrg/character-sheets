@@ -1,28 +1,23 @@
-# OEDIPUS JONES, GREATEST OF THE NORTH BORT BOOMERS
+# Oedipus Jones, Greatest of the North Gort Boomers
 
-## Sentence
-- Name: Oedipus Jones
-- Descriptor: RoboDogMan (R) (D) (M)
-- Type: Speaker (S)
-- Focus: Tops Gears (TG)
+## SENTENCE
+- **Name:** Oedipus Jones
+- **Descriptor:** RoboDogMan (R) (D) (M)
+- **Type:** Speaker (S)
+- **Focus:** Tops Gears (TG)
 
-## Tier 2
+## TIER (2)
 
-## XP (0)
+### XP (0)
+### Effort (2)
 
 ## POOLS
 
 ### Might (13 / 13)
-
 ### Speed (14 / 14)
-
 ### Intellect (16 / 16, Edge 2)
 
-### Effort (2)
-
 ## SKILLS
-
-### Might
 
 ### Speed
 - Driving a vehicle: T
@@ -36,10 +31,8 @@
 - Intellect defense tasks: T
 
 ## ATTACKS
-- Cricket Bat
-  - Damage: 4
-- F1NG3RGUNZ
-  - Damage: 4
+- Cricket Bat (4 dmg)
+- F1NG3RGUNZ (4 dmg)
   > Built-in Weapon: You have installed a retractable light weapon (4 damage). This can be a melee or ranged weapon. It is fully concealed and can only be discovered by body scan. Upgrade may be selected twice.
 
 ## CYPHERS
@@ -77,22 +70,22 @@
 - **Stare Them Down**
   > The mental strength you’ve built up racing over the years is significant. You’re trained in Intellect defense tasks. *Enabler.*
 
-## LASTING DAMAGE
-- None
-
-## MONEY (1250)
-
-## BACKGROUND
-- You grew up in extreme poverty, among criminals. You still have some connections with the old neighborhood.
-- There’s safety in numbers and you need safety right now, thanks to that worrying stalker you've got.
-- Me and Blix bet on Vurtball matches, and they owe you quite a bit of money at this point.
-
 ## EQUIPMENT
 - Large VROOOOOM "diamond"-esque/"gold"-ish necklace
 - Boomer Red trackie with giant embroidered scorpion on the back
 - Matching red racing gloves
 - Cricket bat
 - Red Yankee Muscle car with a giant skull on the hood
+
+## MONEY (1250)
+
+## LASTING DAMAGE
+- None
+
+## BACKGROUND
+- You grew up in extreme poverty, among criminals. You still have some connections with the old neighborhood.
+- There’s safety in numbers and you need safety right now, thanks to that worrying stalker you've got.
+- Me and Blix bet on Vurtball matches, and they owe you quite a bit of money at this point.
 
 ## NOTES
 
