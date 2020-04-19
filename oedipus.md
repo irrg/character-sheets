@@ -85,8 +85,7 @@
 - Me and Blix bet on Vurtball matches, and they owe you quite a bit of money at this point.
 
 ## NOTES
-
----
+- None
 
 # CHANGELOG
 
