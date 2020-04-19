@@ -2,14 +2,9 @@
 
 ## Sentence
 - Name: Oedipus Jones
-- Descriptor: RoboDogMan
-  - (R)
-  - (D)
-  - (M)
-- Type: Speaker
-  - (S)
-- Focus: Tops Gears
-  - (TG)
+- Descriptor: RoboDogMan (R) (D) (M)
+- Type: Speaker (S)
+- Focus: Tops Gears (TG)
 
 ## XP
 - Current: 0
@@ -17,43 +12,55 @@
 ## POOLS
 
 ### Might
-- Character Creation:
-  - 9 (S)
-  - +1 (S)
-  - +2 (RDM)
-    > Actions, Not Words: +2 to your Might Pool and +2 to your Speed Pool.
-- Pool: 12
-- Current: 12
-
-### Speed
-- Character Creation:
-  - 9 (S)
-  - +2 (S)
-  - +2 (RDM)
-    > Actions, Not Words: +2 to your Might Pool and +2 to your Speed Pool.
+- Progression:
+  - CC:
+    - 9 (S)
+    - +1 (S)
+    - +2 (RDM: Actions, Not Words)
+  - T1 -> T2:
+    - +1
 - Pool: 13
 - Current: 13
 
-### Intellect
-- Character creation:
-  - 11 (S)
-  - +3 (S)
+### Speed (14)
+- Progression:
+  - CC:
+    - 9 (S)
+    - +2 (S)
+    - +2 (RDM: Actions, Not Words)
+  - T1 -> T2:
+    - +1
 - Pool: 14
-- Edge: 1 (S)
-- Current: 14
+
+### Intellect (16)
+- Progression:
+  - CC:
+    - 11 (S)
+    - +3 (S)
+  - T1 -> T2:
+    - +2
+- Pool: 16
+- Current: 16
+
+- Edge:
+  - Progression:
+    - CC:
+      - 1 (S)
+    - T1 -> T2
+      - +1
+  - Current: 2
 
 ### Effort
-- Current: 1
+- Current: 2
 
 ## SPECIAL ABILITIES
-- Character creation:
-  - Default
-    - Practiced with Light Weapons (S)
-  - S: Pick 3 from S, R, D, M
+- Progression:
+  - Practiced with Light Weapons (S) [CC]
+  - S: Pick 3 from S, R, D, M [CC]
     - Fast Talk (S)
     - Spin Identity (S)
-  - RDM: Pick 1 from R, D, M
-    -
+  - RDM: Pick 1 from R, D, M [CC]
+    - Ballistic Skin (R)
 
 ### Enablers
 - Practiced With Light Weapons (S)
@@ -83,16 +90,14 @@
 - Initiative: T (Dog Sense)
 
 ### Intellect
-- Perception: I (RDM)
-- Carjacking: T (RDM)
+- Perception: I (RDM, CC)
+- Carjacking: T (RDM, CC)
   > Skill: You are trained in a physical, noncombat skill of your choice.
-- Real World Animals (RDM)
+- Real World Animals (RDM). CC
   > Skill: You’re trained in all tasks involving interacting with real world animals (including pure dogs).
 
 ## LASTING DAMAGE
 - None
-
-- Practiced With Light Weapons
 
 ## CYPHERS
 - Grasp: 2
@@ -106,9 +111,15 @@
   - Damage: 4
 
 ## ARMOR
+- Ballistic Skin +1
 
 ## MONEY
-- S: 300
+- Progression:
+  - CC:
+    - 300
+  - T1 -> T2
+    - +950
+- Current: 1250
 
 ## BACKGROUND
 - You grew up in extreme poverty, among criminals. You still have some connections with the old neighborhood.
@@ -123,6 +134,6 @@
 - Large VROOOOOM "diamond"-esque/"gold"-ish necklace
   > Additional Equipment (S): You have a piece of jewelry that is an expensive item. People often give you gifts or try to impress you.
 - ~~Ford Comet~~
-  > Additional Equipment (TG): You have access to a stolen vehicle (Ford Comet). Remember that with so many eyes in the sky, a stolen vehicle is a dangerous ride. Avoid the cops!
+  > ~~Additional Equipment (TG): You have access to a stolen vehicle (Ford Comet). Remember that with so many eyes in the sky, a stolen vehicle is a dangerous ride. Avoid the cops!~~
 
 ## NOTES
