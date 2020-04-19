@@ -6,6 +6,8 @@
 - Type: Speaker (S)
 - Focus: Tops Gears (TG)
 
+## Tier 2
+
 ## XP (0)
 
 ## POOLS
