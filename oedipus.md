@@ -1,12 +1,16 @@
 # Oedipus Jones, Greatest of the North Gort Boomers
 
 ## SENTENCE
-- **Name:** Oedipus Jones
+- **Name:**
+  Oedipus Jones
 - is a
-- **Descriptor:** RoboDogMan (R) (D) (M)
-- **Type:** Speaker (S)
+- **Descriptor:**
+  RoboDogMan (R) (D) (M)
+- **Type:**
+  Speaker (S)
 - who
-- **Focus:** Tops Gears (TG)
+- **Focus:**
+Tops Gears (TG)
 
 ## XP (0)
 
@@ -37,8 +41,10 @@
   > Built-in Weapon: You have installed a retractable light weapon (4 damage). This can be a melee or ranged weapon. It is fully concealed and can only be discovered by body scan. Upgrade may be selected twice.
 
 ## CYPHERS (0/2)
-- Cypher 1
-- Cypher 2
+- Grape Stoner (Level 5)
+  > Immediately restore points to Might Pool equal to the level of the cypher (any remaining points after the Might Pool is full are lost). Increase the difficulty of Intellect-based checks by one level. The effect lasts for 50 minutes.
+- Vaz (Level 2)
+  > Vaz provides an asset in most tasks where moving parts or conductivity are involved, such as as- sembling or modifying a weapon, fixing a car engine, or picking a lock. Provided that the player and GM agree that it is appropriate, Vaz is used for almost everything. Vaz remains active for 10 minutes per level of the cypher, during which time tasks involving the item have an asset (GM’s discretion).
 
 ## ARMOR
 - +1 (Ballistic Skin)
@@ -84,6 +90,17 @@
 - You grew up in extreme poverty, among criminals. You still have some connections with the old neighborhood.
 - There’s safety in numbers and you need safety right now, thanks to that worrying stalker you've got.
 - Me and Blix bet on Vurtball matches, and they owe you quite a bit of money at this point.
+
+## DESCRIPTION
+> Oedipus Jones is an incredibly superficial, incredibly attractive robodogman who looks at life like he judges book covers and DVD cases — by their covers. (He's not as dim as the Cat from Red Dwarf, but his awareness of how rediculously good-looking he is puts him in the same ballpark as the Cat, with a splash of Zoolander.)
+
+> His body style is largely like the Robodogman on page 33, but his dog breed is kuvasz but with a silver metalic sheen to his fur and a slight LED glow to his eyes, which he covers with large, opaque sunglasses. Some light escapes from behind the glasses and it looks COOL that way. He looks smug, happy and knows he's hot shit.
+
+> Oedipus wears the traditional North Gort Boomer tracksuit but got the 'Drive' Ryan Gosling scorpion embroidered on the back, and plastered the front with patches for his favorite things. He wears an oversized golden necklace of the  word 'VROOOM' on it in gold, with diamonds for extra bling. It doesn't look weird or oversized on his frame, but it definately draws attention.
+
+> His hands are always covered in red driving gloves, night and day, asleep or awake. His index fingers are augmented but dont' reveal their purpose, in that they're laser "fingergunz". Pew pew pew.
+
+> Oedipus carries a cricket bat as his main weapon.
 
 ## NOTES
 - None
