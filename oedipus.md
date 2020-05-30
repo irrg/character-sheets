@@ -10,7 +10,7 @@
   Speaker (S)
 - who
 - **Focus:**
-Tops Gears (TG)
+- Tops Gears (TG)
 
 ## XP (0)
 
