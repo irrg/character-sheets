@@ -16,7 +16,7 @@
 ## POOLS
 - **Might** (11 / 11)
 - **Speed** (12 / 12)
-- **Intellect** (10 / 15, Edge 2)
+- **Intellect** (15 / 15, Edge 2)
 
 ## SKILLS
 
@@ -41,12 +41,12 @@
 - **Dart thrower** (light, 2 dmg, long range)
 - **Knife** (light, 2 dmg, attack is eased)
 
-## CYPHERS (0/2)
+## CYPHERS (2/2)
 - **Destiny Module** (level 5)
-  > *Usable:* Crystal nodule affixed to tool
+  *Usable:* Crystal nodule affixed to tool
   > For the next 28 hours, each time the tool the nodule is attached to is used to repair, craft, or modify an object or structure, the tool provides the user an additional asset to the task.
 - **Shapemetal** (level 6)
-  > *Usable:* Canister containing a silvery, shapeable clay
+  *Usable:* Canister containing a silvery, shapeable clay
   > *Effect:* This metallic clay can be shaped and greatly expanded to create individual tools or objects such as a hammer, a ladder, or a basic structure such as a wall, bench, floor, staircase, and so on, as long as the total volume created could fit in a 10-foot (3 m) cube. Once formed, the structure or objects are permanent.
 
 ## ARMOR
@@ -86,4 +86,4 @@
 - A tin of **Auntie Pearl's Really Good Cookies**
 
 ## BACKGROUND
-> You’ve always had a way with people, and your special talents have kept you safe and allowed you to "nd and participate in a lot of interesting odd jobs. Woodcarving is your hobby, and you like to collect nice pieces of wood that you can carve into animals, faces, and other mementos. You and Yamal have a long history, and almost always disagree about the best way to handle situations, but they’re really good at building things, so you just roll with it. Naveed says that they can always hear you over the thunderous noise of their powers. You wonder if they can hear you all the time. You’re with these people now because a group of thugs was going to rob you, but you talked them out of it, and they’re the ones who told you about the ruin you’re exploring.
+> You’ve always had a way with people, and your special talents have kept you safe and allowed you to find and participate in a lot of interesting odd jobs. Woodcarving is your hobby, and you like to collect nice pieces of wood that you can carve into animals, faces, and other mementos. You and Yamal have a long history, and almost always disagree about the best way to handle situations, but they’re really good at building things, so you just roll with it. Naveed says that they can always hear you over the thunderous noise of their powers. You wonder if they can hear you all the time. You’re with these people now because a group of thugs was going to rob you, but you talked them out of it, and they’re the ones who told you about the ruin you’re exploring.
