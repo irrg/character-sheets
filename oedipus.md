@@ -65,31 +65,31 @@
 - **Grand Deception** *(3 Intellect points)*
   > You convince an intelligent creature (that can understand you and isn’t hostile) of something that is wildly and obviously untrue. *Action.*
 - **Suggestion** *(4 Intellect points)*
-  > You suggest an action to another creature (level 2 or lower) within immediate range. If the action doesn’t seem completely at odds with the creature’s nature, it follows your sug- gestion for up to a minute. Instead of applying Effort, to decrease the difficulty, you can apply it to increase the maximum level of the target by 1. When the effect ends, the creature remembers following the suggestion, but believes that it chose to do so willingly. Action to initiate.
+  > You suggest an action to another creature (level 2 or lower) within immediate range. If the action doesn’t seem completely at odds with the creature’s nature, it follows your sug- gestion for up to a minute. Instead of applying Effort, to decrease the difficulty, you can apply it to increase the maximum level of the target by 1. When the effect ends, the creature remembers following the suggestion, but believes that it chose to do so willingly. *Action to initiate.*
+- **Making a Call**
+  > Because of your mainstream respectability or influence, you can obtain the name or location of a low level connection who may have the resources your group needs. It’s up to you to make the introduction and obtain the services needed (this may require a conversation, money, or even completing a mission for the NPC). *This ability can be used once per play session.*
 
 ### Enablers
 - **Practiced With Light Weapons**
-  > You can use light weapons without penalty. If you wield a medium weapon, increase the difficulty of the attack by one step. If you wield a heavy weapon, increase it by two steps. You also start with one light weapon of your choice. *Enabler.*
+  > You can use light weapons without penalty. If you wield a medium weapon, increase the difficulty of the attack by one step. If you wield a heavy weapon, increase it by two steps. You also start with one light weapon of your choice.
 - **Dog Sense**
-  > You have an uncanny ability to sense when things aren’t right and can snap to an alert state quickly. You are trained in Initiative. If you are already trained, you become specialized. *Enabler.*
+  > You have an uncanny ability to sense when things aren’t right and can snap to an alert state quickly. You are trained in Initiative. If you are already trained, you become specialized.
 - **Ballistic Skin**
-  > You have replaced your standard skin plastics with a layer of ballistic weave providing +1 Armor rating. *Enabler.*
+  > You have replaced your standard skin plastics with a layer of ballistic weave providing +1 Armor rating.
 - **Driver**
-  > You are trained in all tasks related to driving a car, truck, or motorcycle, including mechanical repair tasks. *Enabler.*
+  > You are trained in all tasks related to driving a car, truck, or motorcycle, including mechanical repair tasks.
 - **Driving on the Edge**
-  >  You can take a shot with light or medium ranged weapon and attempt driving tasks as a single action. *Enabler.*
+  >  You can take a shot with light or medium ranged weapon and attempt driving tasks as a single action.
 - **Unexpected Betrayal**
-  > Within a round or two of successfully using Enthrall, Fast Talk, or a similar ability on a target within short range, the difficulty of the first attack you make on that target is decreased by two steps. Once you use Unexpected Betrayal on a target, the difficulty of using your abilities or attempt- ing simple persuasion on that target is permanently increased by two steps. *Enabler.*
+  > Within a round or two of successfully using Enthrall, Fast Talk, or a similar ability on a target within short range, the difficulty of the first attack you make on that target is decreased by two steps. Once you use Unexpected Betrayal on a target, the difficulty of using your abilities or attempt- ing simple persuasion on that target is permanently increased by two steps.
 - **Stare Them Down**
-  > The mental strength you’ve built up racing over the years is significant. You’re trained in Intellect defense tasks. *Enabler.*
-- **Making a Call**
-  > Because of your mainstream respectability or influence, you can obtain the name or location of a low level connection who may have the resources your group needs. It’s up to you to make the introduction and obtain the services needed (this may require a conversation, money, or even completing a mission for the NPC). This ability can be used once per play session. *Enabler.*
+  > The mental strength you’ve built up racing over the years is significant. You’re trained in Intellect defense tasks.
   > **Sharp Eyed**
-  > Years of driving have sharpened your sense of direction. You’re trained in all tasks involving perception and navigation. *Enabler.*
+  > Years of driving have sharpened your sense of direction. You’re trained in all tasks involving perception and navigation.
 - **Grease Monkey**
-  > You are specialized in all tasks related to driving a car, truck or motorcycle, including mechanical repair tasks. *Enabler.*
+  > You are specialized in all tasks related to driving a car, truck or motorcycle, including mechanical repair tasks.
 - **Road Reflexes**
-  > You add 3 points to your Speed Pool. *Enabler.*
+  > You add 3 points to your Speed Pool.
 - **Combat armoring**
   > You have installed a layer of flexible VPC armor under your skin for additional protection. +4 to Armor rating, encumbrance as Medium armor.
 
