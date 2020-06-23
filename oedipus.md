@@ -14,13 +14,13 @@
 
 ## XP (0)
 
-## TIER (4)
-### Effort (4)
+## TIER (5)
+### Effort (5)
 
 ## POOLS
 - **Might** (16 / 16)
-- **Speed** (17 / 17, Edge 1)
-- **Intellect** (20 / 20, Edge 3)
+- **Speed** (19 / 19, Edge 1)
+- **Intellect** (22 / 22, Edge 4)
 
 ## RECOVERY ROLLS
 - [X] 1 action
@@ -39,6 +39,7 @@
 - **Perception** (Intellect) [T] [I] [canceled out]
 - **Driving a vehicle** (Speed) [S]
 - **Repairing a vehicle** (Intellect) [S]
+- **Vurtology** (Intellect) [T]
 
 ## ATTACKS
 - **Cricket Bat** (4 dmg)
@@ -65,7 +66,7 @@
 - **Grand Deception** *(3 Intellect points)*
   > You convince an intelligent creature (that can understand you and isn’t hostile) of something that is wildly and obviously untrue. *Action.*
 - **Suggestion** *(4 Intellect points)*
-  > You suggest an action to another creature (level 2 or lower) within immediate range. If the action doesn’t seem completely at odds with the creature’s nature, it follows your sug- gestion for up to a minute. Instead of applying Effort, to decrease the difficulty, you can apply it to increase the maximum level of the target by 1. When the effect ends, the creature remembers following the suggestion, but believes that it chose to do so willingly. *Action to initiate.*
+  > You suggest an action to another creature (level 2 or lower) within immediate range. If the action doesn’t seem completely at odds with the creature’s nature, it follows your suggestion for up to a minute. Instead of applying Effort, to decrease the difficulty, you can apply it to increase the maximum level of the target by 1. When the effect ends, the creature remembers following the suggestion, but believes that it chose to do so willingly. *Action to initiate.*
 - **Making a Call**
   > Because of your mainstream respectability or influence, you can obtain the name or location of a low level connection who may have the resources your group needs. It’s up to you to make the introduction and obtain the services needed (this may require a conversation, money, or even completing a mission for the NPC). *This ability can be used once per play session.*
 
@@ -110,8 +111,8 @@
 ## DESCRIPTION
 > Oedipus Jones is an incredibly superficial, incredibly attractive robodogman who looks at life like he judges book covers and DVD cases — by their covers. (He's not as dim as the Cat from Red Dwarf, but his awareness of how rediculously good-looking he is puts him in the same ballpark as the Cat, with a splash of Zoolander.)
 > His body style is largely like the Robodogman on page 33, but his dog breed is kuvasz but with a silver metalic sheen to his fur and a slight LED glow to his eyes, which he covers with large, opaque sunglasses. Some light escapes from behind the glasses and it looks COOL that way. He looks smug, happy and knows he's hot shit.
-> Oedipus wears the traditional North Gort Boomer tracksuit but got the 'Drive' Ryan Gosling scorpion embroidered on the back, and plastered the front with patches for his favorite things. He wears an oversized golden necklace of the  word 'VROOOM' on it in gold, with diamonds for extra bling. It doesn't look weird or oversized on his frame, but it definately draws attention.
-> His hands are always covered in red driving gloves, night and day, asleep or awake. His index fingers are augmented but dont' reveal their purpose, in that they're laser "fingergunz". Pew pew pew.
+> Oedipus wears the traditional North Gort Boomer tracksuit but got the 'Drive' Ryan Gosling scorpion embroidered on the back, and plastered the front with patches for his favorite things. He wears an oversized golden necklace of the  word 'VROOOM' on it in gold, with diamonds for extra bling. It doesn't look weird or oversized on his frame, but it definitely draws attention.
+> His hands are always covered in red driving gloves, night and day, asleep or awake. His index fingers are augmented but don't reveal their purpose, in that they're laser "fingergunz". Pew pew pew.
 > Oedipus carries a cricket bat as his main weapon.
 
 ## NOTES
@@ -236,3 +237,11 @@
 - Pick 2 from S (or R, D, M)
   - Suggestion (S)
   - Combat armoring (R)
+
+## T4 -> T5
+
+### Speed
+- +2
+
+### Intellect
+- +2

@@ -8,15 +8,15 @@
 - who
 - *Focus:* **Wears a Sheen of Ice**
 
-## XP (0)
+## XP (3)
 
 ## TIER (2)
 ### Effort (2)
 
 ## POOLS
-- **Might** (11 / 11)
-- **Speed** (12 / 12)
-- **Intellect** (15 / 15, Edge 2)
+- **Might** (12 / 12)
+- **Speed** (13 / 13)
+- **Intellect** (17 / 17, Edge 2)
 
 ## SKILLS
 
@@ -28,13 +28,14 @@
 - **Persuasion**
 - **Woodcarving**
 - **Armor**
+- **Stealth** (T2)
 
 ### Inability
-- **Crafting numenera**
+- **Crafting Numenera**
 - **Detecting disguises**
 - **Detecting lies**
-- **Salvaging numenera**
-- **Understanding numenera**
+- **Salvaging Numenera**
+- **Understanding Numenera**
 
 ## ATTACKS
 - You can attack and move an immediate distance as one action.
@@ -44,10 +45,14 @@
 ## CYPHERS (2/2)
 - **Destiny Module** (level 5)
   *Usable:* Crystal nodule affixed to tool
-  > For the next 28 hours, each time the tool the nodule is attached to is used to repair, craft, or modify an object or structure, the tool provides the user an additional asset to the task.
-- **Shapemetal** (level 6)
-  *Usable:* Canister containing a silvery, shapeable clay
-  > *Effect:* This metallic clay can be shaped and greatly expanded to create individual tools or objects such as a hammer, a ladder, or a basic structure such as a wall, bench, floor, staircase, and so on, as long as the total volume created could fit in a 10-foot (3 m) cube. Once formed, the structure or objects are permanent.
+  > For the next 28 hours, each time the tool the module is attached to is used to repair, craft, or modify an object or structure, the tool provides the user an additional asset to the task.
+
+## ARTIFACTS
+
+- **Launcher** (level 7)
+- *Form:* Metal tube with a set of winding synth tubes wrapped around it
+- *Effect:* This device launches anything about the size of a fist or smaller with great force to very long range. An inert object, such as a rock, inflicts the artifact’s level in damage. A detonation cypher (or similar explosive) can also be launched to activate on impact.
+- *Depletion:* 1 in 1d20
 
 ## ARMOR
 - 3 (Fancy armor)
@@ -71,7 +76,7 @@
   > If you interact with or study a target for at least a round, you gain a sense of how its mind works, which you can use against it in the most blunt fashion possible. You can attempt to confuse it and make it forget what’s just happened. On a success, you erase up to the last five minutes of its memory. Action to prepare; action to initiate.
 
 ### Enablers
-- **Trained Without Armor** (A?
+- **Trained Without Armor** (A?)
   > You are trained in Speed defense actions when not wearing armor. Enabler. (You still get this when using your Ice Armor.)
 - **Practiced with Light Weapons** (A?)
   >  You can use light weapons. Medium and heavy weapon attacks are hindered.
